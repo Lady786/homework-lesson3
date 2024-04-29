@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+display: flex;
+justify-content: space-around;
+background-color:  #FDF6E9;
+;
+}
+.main__text{
+width: 600px;
+height: 300px;
+/* border: 1px solid blue; */
+margin-top: 159px;
+margin-left: 50px;
+display: flex;flex-direction: column;
+justify-content: space-between;
+}
+.main__photo{
+    width: 800px;
+    height: 800px;
+}

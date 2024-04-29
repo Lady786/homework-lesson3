@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  width: 1440px;
+  height: auto;
+  background-color: #EC9706;
+  /* border: 1px solid black; */
+  margin: 50px auto;
+
+}
+.site{
+  width: 1350px;
+  height: auto;
+  /* border: 1px solid black; */
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
